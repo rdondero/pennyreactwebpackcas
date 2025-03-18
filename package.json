@@ -1,0 +1,19 @@
+{
+   "name": "pennyreactwebpackcas",
+   "version": "1.0.0",
+   "description": "The Penny Application Using React and CAS",
+   "scripts": {
+      "build": "webpack"
+   },
+   "author": "Bob Dondero",
+   "dependencies": {
+      "@babel/core": "7.25.9",
+      "@babel/preset-env": "7.25.9",
+      "@babel/preset-react": "7.25.9",
+      "babel-loader": "9.2.1",
+      "react": "19.0.0",
+      "react-dom": "19.0.0",
+      "webpack": "5.97.1",
+      "webpack-cli": "6.0.1"
+   }
+}
